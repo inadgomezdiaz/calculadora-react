@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/protfolio-web/static/css/main.ddac6825.css",
-    "main.js": "/protfolio-web/static/js/main.49ecbb6d.js",
-    "index.html": "/protfolio-web/index.html",
-    "main.ddac6825.css.map": "/protfolio-web/static/css/main.ddac6825.css.map",
-    "main.49ecbb6d.js.map": "/protfolio-web/static/js/main.49ecbb6d.js.map"
+    "main.css": "/calculadora-react/static/css/main.ddac6825.css",
+    "main.js": "/calculadora-react/static/js/main.49ecbb6d.js",
+    "index.html": "/calculadora-react/index.html",
+    "main.ddac6825.css.map": "/calculadora-react/static/css/main.ddac6825.css.map",
+    "main.49ecbb6d.js.map": "/calculadora-react/static/js/main.49ecbb6d.js.map"
   },
   "entrypoints": [
     "static/css/main.ddac6825.css",
